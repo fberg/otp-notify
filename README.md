@@ -5,4 +5,4 @@ The input consits of a `tokens.xml` file from the Android application [FreeOTP](
 
 Obvious disclaimer: only use this software if you are aware of the security implications.
 
-Requires `[xmltodict](https://pypi.python.org/pypi/xmltodict/)` and python-gobject.
+Requires [xmltodict](https://pypi.python.org/pypi/xmltodict/) and python-gobject.
